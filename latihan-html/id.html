@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* style <h1> with the id name "myHeader" */
+        #myHeader {
+          background-color: lightblue;
+          color: black;
+          padding: 40px;
+          text-align: center;
+        } 
+        
+        /* Style all elements with the class name "city" */
+
+        .city {
+          background-color: tomato;
+          color: white;
+          padding: 10px;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- id bersifat unik, cuma bisa dipake 1x -->
+    <h2>The id Attribute</h2>
+    <p>Use CSS to style an element with the id "myHeader":</p>
+
+    <h1 id="myHeader">My Header</h1>
+    <br>
+    <hr>
+
+    <!-- perbedaan antara id dan class, look at this -->
+    <h2>Difference Between Class and ID</h2>
+    <p>A class name can be used by multiple HTML elements, 
+        while an id name must only be used by one HTML element within the page:
+    </p>
+    <!-- An element with a unique id, u can look up -->
+    
+    <h1>My Cities</h1>
+
+    <!-- Multiple elements with same class -->
+    
+    <h2 class="city">London</h2>
+    <p>London is the capital of England.</p>
+
+    <h2 class="city">Paris</h2>
+    <p>Paris is the capital of France.</p>
+
+    <h2 class="city">Tokyo</h2>
+    <p>Tokyo is the capital of Japan.</p>
+
+    <br>
+    <hr>
+    
+    <!-- id juga bisa digunakan untuk membuat pintasan -->
+    <p><a href="#C4">Jump to Chapter 4</a></p>
+    <p><a href="#C10">Jump to Chapter 10</a></p>
+
+    <h3>Chapter 1</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 2</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 3</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3 id="C4">Chapter 4</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 5</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 6</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 7</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 8</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 9</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3 id="C10">Chapter 10</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 11</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 12</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 13</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 14</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 15</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 16</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 17</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 18</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 19</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 20</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 21</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 22</h3>
+    <p>This chapter explains ba bla bla</p>
+
+    <h3>Chapter 23</h3>
+    <p>This chapter explains ba bla bla</p>
+    <br>
+    <hr>
+
+    <!--tentunya id jg bisa dijalankan dengan js-->
+    <h3>Using The id Attribute in JavaScript</h3>
+    <p>JavaScript can access an element with a specified id by using the getElementById() method:</p>
+
+    <button onclick="displayResult()">Change text n look the 1 header</button>
+
+    <script>
+    function displayResult() {
+    document.getElementById("myHeader").innerHTML = "Have a nice day!";
+    }
+    </script>
+
+</body>
+</html>
