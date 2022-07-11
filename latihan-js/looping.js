@@ -1,4 +1,3 @@
-/*
 for (let line = "#"; line.length <8;
     line += "#")
     console.log(line)
@@ -11,7 +10,7 @@ for (let n = 1; n <=100; n++) {
     if (n % 3 == 0) output += "Fizz";
     if (n % 5 == 0) output += "Buzz";
     console.log(output || n);
-} */
+}
 
 let size = 8;
 let board = "";
