@@ -12,16 +12,16 @@ while (n < 3) {
 } 
 console.log(n)
   
-let x = 0;
+let a = 0;
 let z = 0;
 labelCancelLoops: while (true) {
-  console.log('anjayy: ' + x);
-  x += 1;
+  console.log('anjayy: ' + a);
+  a += 1;
   z = 1;
   while (true) {
     console.log('wkwkwk: ' + z);
     z += 1;
-    if (z === 8 && x === 8) {
+    if (z === 8 && a === 8) {
       break labelCancelLoops;
     } else if (z === 8) {
       break;
