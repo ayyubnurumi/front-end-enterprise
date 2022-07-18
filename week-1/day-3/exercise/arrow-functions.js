@@ -24,8 +24,8 @@ const square1 = (x) => {return x*x;};
 const square2 = x => x*x;
 
 let x = 3;
-console.log(square1(x));
-console.log(square2(x));
+console.log(square1(x)); // -> 9
+console.log(square2(x)); // -> 9
 
 // When an arrow function has no parameters at all, 
 // its parameter list is just an empty set of parentheses.
