@@ -1,0 +1,980 @@
+Host Name:                 DESKTOP-B2OM8LR
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          hp
+Registered Organization:
+Product ID:                00331-10000-00001-AA797
+Original Install Date:     06/04/2021, 02.25.44
+System Boot Time:          17/06/2022, 13.36.01
+System Manufacturer:       Hewlett-Packard
+System Model:              HP Notebook
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 69 Stepping 1 GenuineIntel ~782 Mhz
+BIOS Version:              Insyde F.19, 26/08/2015
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             in;Indonesian
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     1.979 MB
+Available Physical Memory: 373 MB
+Virtual Memory: Max Size:  5.947 MB
+Virtual Memory: Available: 2.564 MB
+Virtual Memory: In Use:    3.383 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-B2OM8LR
+Hotfix(s):                 14 Hotfix(s) Installed.
+                           [01]: KB5013887
+                           [02]: KB4562830
+                           [03]: KB4577586
+                           [04]: KB4580325
+                           [05]: KB4589212
+                           [06]: KB5003791
+                           [07]: KB5014699
+                           [08]: KB5006753
+                           [09]: KB5007273
+                           [10]: KB5011352
+                           [11]: KB5011651
+                           [12]: KB5014032
+                           [13]: KB5014035
+                           [14]: KB5005699
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Realtek PCIe FE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Broadcom BCM43142 802.11 bgn Wi-Fi M.2 Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.43.1
+                                 IP address(es)
+                                 [01]: 192.168.43.190
+                                 [02]: fe80::b82b:1ba0:a3b6:922e
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+C:\Users\hp>getmac
+
+Physical Address    Transport Name
+=================== ==========================================================
+30-8D-99-C1-0D-72   Media disconnected
+32-E2-5F-3C-A4-9F   \Device\Tcpip_{7AC5115A-6515-4895-B8AE-D486663B11DE}
+D8-5D-E2-8F-7A-58   Media disconnected
+
+C:\Users\hp>hostname
+DESKTOP-B2OM8LR
+
+C:\Users\hp>tree
+Folder PATH listing
+Volume serial number is 80BD-DD4A
+C:.
+├───.android
+├───.BigNox
+├───.vscode
+│   └───extensions
+│       ├───esbenp.prettier-vscode-9.2.0
+│       │   ├───.devcontainer
+│       │   ├───dist
+│       │   └───node_modules
+│       │       └───prettier
+│       │           └───esm
+│       └───esbenp.prettier-vscode-9.5.0
+│           ├───.devcontainer
+│           ├───dist
+│           └───node_modules
+│               └───prettier
+│                   └───esm
+├───3D Objects
+├───Cisco Packet Tracer 7.3.0
+│   ├───extensions
+│   ├───logs
+│   ├───saves
+│   └───templates
+├───Contacts
+├───Desktop
+├───Documents
+│   ├───Bluetooth
+│   ├───BNE
+│   │   └───One Piece Pirate Warriors 3
+│   │       └───SAVEDATA
+│   ├───contek
+│   │   └───praxis-academy
+│   │       ├───kemampuan-dasar
+│   │       │   ├───kemampuan-dasar-1
+│   │       │   │   ├───kasus
+│   │       │   │   └───latihan
+│   │       │   │       └───shellscripts
+│   │       │   └───kemampuan-dasar-2
+│   │       ├───novice
+│   │       │   ├───01-01
+│   │       │   ├───01-02
+│   │       │   ├───01-03
+│   │       │   ├───01-04
+│   │       │   ├───01-05
+│   │       │   ├───02-01
+│   │       │   ├───02-02
+│   │       │   ├───02-03
+│   │       │   └───03-01
+│   │       └───wawasan
+│   ├───Custom Office Templates
+│   ├───MALIK NITIP
+│   ├───OneNote Notebooks
+│   │   └───My Notebook
+│   ├───praxis-academy
+│   │   └───kemampuan-dasar
+│   │       ├───kemampuan-dasar-1
+│   │       │   ├───kasus
+│   │       │   └───latihan
+│   │       ├───kemampuan-dasar-2
+│   │       └───wawasan
+│   └───Zoom
+├───Downloads
+│   ├───Compressed
+│   │   └───IDM_Jamu.kuyhAa.Me.up1607
+│   ├───Documents
+│   │   ├───Berkas Ayyub Abdul Rahman untuk Teleperformane
+│   │   └───pkkp upload
+│   ├───Music
+│   ├───Programs
+│   └───Video
+│       ├───edtech-workshop webdev on zerocoding
+│       └───eduwork-QA free class
+├───Favorites
+│   └───Links
+├───Intel
+│   └───Logs
+├───Links
+├───Music
+│   └───Playlists
+├───Nox_share
+│   ├───App
+│   ├───Image
+│   └───Other
+├───OneDrive
+├───Pictures
+│   ├───Camera Roll
+│   ├───Feedback
+│   └───Saved Pictures
+├───Saved Games
+├───Searches
+├───Videos
+│   └───Captures
+└───vmlogs
+
+C:\Users\hp>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+C:\Users\hp>vol
+ Volume in drive C has no label.
+ Volume Serial Number is 80BD-DD4A
+
+C:\Users\hp>date
+The current date is: 28/06/2022
+Enter the new date: (dd-mm-yy)
+
+C:\Users\hp>time
+The current time is: 16.23.35,95
+Enter the new time:
+
+C:\Users\hp>type
+The syntax of the command is incorrect.
+
+C:\Users\hp>verify
+VERIFY is off.
+
+C:\Users\hp>wmic
+wmic:root\cli>
+"/?" for help, QUIT to Exit.
+wmic:root\cli>QUQIQYIYIIIUHIUHUHQEFUHKEQQQQQ
+QUQIQYIYIIIUHIUHUHQEFUHKEQQQQQ - Alias not found.
+wmic:root\cli>
+"/?" for help, QUIT to Exit.
+wmic:root\cli>QUIT
+
+C:\Users\hp>color
+
+C:\Users\hp>cipher
+
+ Listing C:\Users\hp\
+ New files added to this directory will not be encrypted.
+
+U .android
+U .BigNox
+U .gitconfig
+U .lesshst
+U .packettracer
+U .vscode
+U 3D Objects
+U Cisco Packet Tracer 7.3.0
+U Contacts
+U Desktop
+U Documents
+U Downloads
+U Favorites
+U inittk.ini
+U inst.ini
+U Intel
+U Links
+U Music
+U Nox_share
+U nuuid.ini
+U OneDrive
+U Pictures
+U Saved Games
+U Searches
+U Videos
+U vmlogs
+
+C:\Users\hp>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 80BD-DD4A
+
+ Directory of C:\Users\hp
+
+28/06/2022  15.09    <DIR>          .
+28/06/2022  15.09    <DIR>          ..
+07/02/2018  21.44    <DIR>          .android
+07/02/2018  21.43    <DIR>          .BigNox
+28/06/2022  15.09                62 .gitconfig
+28/06/2022  15.00                20 .lesshst
+27/07/2020  17.05               170 .packettracer
+18/02/2022  23.38    <DIR>          .vscode
+06/04/2021  02.28    <DIR>          3D Objects
+27/07/2020  17.11    <DIR>          Cisco Packet Tracer 7.3.0
+06/04/2021  02.28    <DIR>          Contacts
+10/06/2022  19.50    <DIR>          Desktop
+28/06/2022  15.21    <DIR>          Documents
+28/06/2022  15.08    <DIR>          Downloads
+06/04/2021  02.28    <DIR>          Favorites
+07/01/2018  10.12                66 inittk.ini
+06/01/2018  18.43                41 inst.ini
+12/10/2016  13.55    <DIR>          Intel
+06/04/2021  02.28    <DIR>          Links
+06/04/2021  02.28    <DIR>          Music
+07/01/2018  10.06    <DIR>          Nox_share
+06/01/2018  18.43                45 nuuid.ini
+10/08/2021  06.33    <DIR>          OneDrive
+31/05/2022  22.10    <DIR>          Pictures
+06/04/2021  02.28    <DIR>          Saved Games
+06/04/2021  02.28    <DIR>          Searches
+12/04/2021  11.23    <DIR>          Videos
+07/02/2018  21.43    <DIR>          vmlogs
+               6 File(s)            404 bytes
+              22 Dir(s)  17.896.996.864 bytes free
+
+C:\Users\hp>ftype
+Access.ACCDAExtension.16=C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE /NOSTARTUP "%1"
+Access.ACCDCFile.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1"
+Access.ACCDEFile.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1" %2 %3 %4 %5 %6 %7 %8 %9
+Access.ACCDRFile.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /RUNTIME "%1" %2 %3 %4 %5 %6 %7 %8 %9
+Access.ACCDTFile.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1"
+Access.ADEFile.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1" %2 %3 %4 %5 %6 %7 %8 %9
+Access.Application.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1" %2 %3 %4 %5 %6 %7 %8 %9
+Access.BlankDatabaseTemplate.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /NEWDB "%1"
+Access.BlankProjectTemplate.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /NEWDB "%1"
+Access.Extension.16=C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE /NOSTARTUP "%1"
+Access.MDBFile="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1" %2 %3 %4 %5 %6 %7 %8 %9
+Access.MDEFile.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1" %2 %3 %4 %5 %6 %7 %8 %9
+Access.Project.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1" %2 %3 %4 %5 %6 %7 %8 %9
+Access.ShortCut.DataAccessPage.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /SHELLSYSTEM [OpenDataAccessPage "%1"]
+Access.ShortCut.Diagram.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /SHELLSYSTEM [OpenDiagram "%1"]
+Access.ShortCut.Form.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /SHELLSYSTEM [OpenForm "%1"]
+Access.Shortcut.Function.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /SHELLSYSTEM [OpenFunction "%1"]
+Access.ShortCut.Macro.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /SHELLSYSTEM [ShellOpenMacro "%1"]
+Access.ShortCut.Module.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /SHELLSYSTEM [OpenModule "%1"]
+Access.ShortCut.Query.1=C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE /NOSTARTUP /SHELLSYSTEM [OpenQuery "%1"]
+Access.ShortCut.Report.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /SHELLSYSTEM [OpenReport "%1", 2]
+Access.ShortCut.StoredProcedure.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /SHELLSYSTEM [OpenStoredProcedure "%1"]
+Access.ShortCut.Table.1=C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE /NOSTARTUP /SHELLSYSTEM [OpenTable "%1"]
+Access.ShortCut.View.1="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP /SHELLSYSTEM [OpenView "%1"]
+Access.UriLink.16=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+Access.WebApplicationReference.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1" %2 %3 %4 %5 %6 %7 %8 %9
+Access.WizardDataFile.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1"
+Access.WizardUserDataFile.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1"
+Access.Workgroup.16="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE" /NOSTARTUP "%1"
+accesshtmlfile="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE"
+accessthmltemplate="C:\Program Files\Microsoft Office\Root\Office16\MSACCESS.EXE"
+AIR.InstallerPackage=c:\PROGRA~2\COMMON~1\ADOBEA~1\Versions\1.0\ADOBEA~1.EXE "%1"
+Application.Manifest="C:\Windows\System32\rundll32.exe" "C:\Windows\System32\dfshim.dll",ShOpenVerbApplication %1
+Application.Reference="C:\Windows\System32\rundll32.exe" "C:\Windows\System32\dfshim.dll",ShOpenVerbShortcut %1|%2
+batfile="%1" %*
+Bluestacks.Apk=C:\Program Files (x86)\Bluestacks\HD-ApkHandler.exe "%1"
+bootstrap.vsto.1=rundll32.exe "c:\Program Files (x86)\Common Files\Microsoft Shared\VSTO\vstoee.dll",InstallVstoSolution %1
+BraveFile="C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --single-argument %1
+BraveHTML="C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --single-argument %1
+brmFile="PrintBrmUI.exe" /import /file:"%1"
+CABFolder=%SystemRoot%\Explorer.exe /idlist,%I,%L
+callto=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+CATFile=%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenCAT %1
+CERFile=%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenCER %1
+CertificateStoreFile=%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenSTR %1
+certificate_wab_auto_file="%ProgramFiles%\Windows Mail\wab.exe" /certificate "%1"
+chm.file="%SystemRoot%\hh.exe" %1
+ChromeHTML="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" -- "%1"
+cmdfile="%1" %*
+comfile="%1" %*
+CompressedFolder=%SystemRoot%\Explorer.exe /idlist,%I,%L
+conf=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+contact_wab_auto_file="%ProgramFiles%\Windows Mail\wab.exe" /contact "%1"
+CRLFile=%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenCRL %1
+desktopthemepackfile=%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\themecpl.dll,OpenThemeAction %1
+Diagnostic.Cabinet=%SystemRoot%\system32\msdt.exe /cab "%1"
+Diagnostic.Config=%SystemRoot%\system32\msdt.exe /path "%1"
+Diagnostic.Document=%SystemRoot%\system32\msdt.exe /path "%1"
+Diagnostic.Perfmon.Config=%SystemRoot%\system32\perfmon /sys /load "%1"
+Diagnostic.Perfmon.Document=%SystemRoot%\system32\perfmon /sys /open "%1"
+Diagnostic.Resmon.Config=%SystemRoot%\system32\perfmon /res /load "%1"
+DLNA-PLAYSINGLE="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" "%L"
+docxfile="%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+dqyfile=C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE "%1"
+emffile="%systemroot%\system32\mspaint.exe" "%1"
+evtfile=%SystemRoot%\system32\eventvwr.exe /l:"%1"
+evtxfile=%SystemRoot%\system32\eventvwr.exe /l:"%1"
+Excel.Addin="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.AddInMacroEnabled="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.Backup="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.Chart=C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE "%1"
+Excel.Chart.8="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.CSV="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.Macrosheet="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.OpenDocumentSpreadsheet.12="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.Sheet.12="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.Sheet.8="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.SheetBinaryMacroEnabled.12="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.SheetMacroEnabled.12="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.SLK="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.Template="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.Template.8="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.TemplateMacroEnabled="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.UriLink.16=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+Excel.Workspace="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excel.XLL="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "%1"
+Excelhtmlfile="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE"
+Excelhtmltemplate="C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE"
+exefile="%1" %*
+Explorer.AssocActionId.BurnSelection=%SystemRoot%\explorer.exe
+Explorer.AssocActionId.EraseDisc=%SystemRoot%\explorer.exe
+Explorer.AssocActionId.ZipSelection=%SystemRoot%\explorer.exe
+Explorer.AssocProtocol.search-ms=%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L
+FaxCover.Document=C:\Windows\System32\fxscover.exe "%1"
+feed="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /share "%1"
+feeds="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /share "%1"
+Folder=%SystemRoot%\Explorer.exe
+ftp="C:\Program Files\Internet Explorer\iexplore.exe" %1
+giffile="C:\Program Files\Internet Explorer\iexplore.exe" %1
+group_wab_auto_file="%ProgramFiles%\Windows Mail\wab.exe" /Group "%1"
+hlpfile=%SystemRoot%\winhlp32.exe %1
+HPDeviceCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Solutions\Modules\HPDeviceCheck.exe" %1
+HPDIA="C:\Program Files (x86)\Hewlett-Packard\HP Support Solutions\Modules\HPDIA.exe" %1
+HPDIA2="C:\Program Files (x86)\Hewlett-Packard\HP Support Solutions\Modules\HPDIA.exe" %1
+HPHDDCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPHDDCheck\HPHDDCheck.exe" %1
+HPNetworkCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPNetworkCheck\HPNetworkCheck.exe" %1
+HPODDCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPODDCheck\HPODDCheck.exe" %1
+HPSALauncher="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPSALauncher.exe" %1
+HPSAObjectMetrics="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Solutions\HPSAObjectMetrics.exe" %1
+HPSupportAssistant="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\HPSF.exe" %1
+HPSystemBoardCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPSystemBoardCheck\HPSystemBoardCheck.exe" %1
+HPTouchCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPTouchCheck\HPTouchCheck.exe" %1
+HPTVTunerCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPTVTunerCheck\HPTVTunerCheck.exe" %1
+HPVideoCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPVideoCheck\HPVideoCheck.exe" %1
+HPWebcamCheck="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Resources\HPWebcamCheck\HPWebcamCheck.exe" %1
+HPWebProductsDetection2="C:\Program Files (x86)\Hewlett-Packard\HP Support Solutions\Modules\HPWPD.exe" %1
+HPWebProductsDetection3="C:\Program Files (x86)\Hewlett-Packard\HP Support Solutions\Modules\HPWPD.exe" %1
+htafile=C:\Windows\SysWOW64\mshta.exe "%1" {1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}%U{1E460BD7-F1C3-4B2E-88BF-4E770A288AF5} %*
+htmlfile="C:\Program Files\Internet Explorer\IEXPLORE.EXE" %1
+http="C:\Program Files\Internet Explorer\iexplore.exe" %1
+https="C:\Program Files\Internet Explorer\iexplore.exe" %1
+IE.AssocFile.HTM="C:\Program Files\Internet Explorer\iexplore.exe" %1
+IE.AssocFile.MHT="C:\Program Files\Internet Explorer\iexplore.exe" %1
+IE.AssocFile.PARTIAL="C:\Program Files\Internet Explorer\iexplore.exe" %1
+IE.AssocFile.SVG="C:\Program Files\Internet Explorer\iexplore.exe" %1
+IE.AssocFile.URL="C:\Windows\System32\rundll32.exe" "C:\Windows\System32\ieframe.dll",OpenURL %l
+IE.AssocFile.WEBSITE="C:\Program Files\Internet Explorer\iexplore.exe" -w "%l" %*
+IE.AssocFile.XHT="C:\Program Files\Internet Explorer\iexplore.exe" %1
+IE.FTP="C:\Program Files\Internet Explorer\iexplore.exe" %1
+IE.HTTP="C:\Program Files\Internet Explorer\iexplore.exe" %1
+IE.HTTPS="C:\Program Files\Internet Explorer\iexplore.exe" %1
+im=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+IMEDictionaryCompiler="%WINDIR%\system32\IME\SHARED\imewdbld.exe" "%1" %*
+imesxfile="%WINDIR%\system32\IME\SHARED\imesearch.exe" "%1"
+inffile=%SystemRoot%\system32\NOTEPAD.EXE %1
+inifile=%SystemRoot%\system32\NOTEPAD.EXE %1
+Intel.GraphicsControlPanel.igp.1=GfxUIEx.exe %1
+InternetShortcut="C:\WINDOWS\system32\rundll32.exe" "C:\WINDOWS\system32\ieframe.dll",OpenURL %l
+iqyfile=C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE "%1"
+JSEFile=C:\Windows\System32\WScript.exe "%1" %*
+JSFile=C:\Windows\System32\WScript.exe "%1" %*
+LDAP="%ProgramFiles%\Windows Mail\wab.exe" "/ldap:%1"
+Lync15=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+Lync15classic=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+ma-chan=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+ma-filelink=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+mailto="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" -c IPM.Note /mailto "%1"
+mhtmlfile="C:\Program Files\Internet Explorer\IEXPLORE.EXE" %1
+microsoft-edge="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "%1"
+Microsoft.Lync.15ClassicJoin.1=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+Microsoft.Lync.15Join.1=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+Microsoft.Lync.15TelProtocol.1=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+Microsoft.PowerShellConsole.1="C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -p "%1"
+Microsoft.PowerShellData.1="C:\Windows\System32\notepad.exe" "%1"
+Microsoft.PowerShellModule.1="C:\Windows\System32\notepad.exe" "%1"
+Microsoft.PowerShellScript.1="C:\Windows\System32\notepad.exe" "%1"
+Microsoft.ProvTool.Provisioning.1="%SystemRoot%\System32\provtool.exe" "%1" /source ShellOpen
+Microsoft.System.Update.1="%systemroot%\system32\wusa.exe" "%1" %*
+Microsoft.Website="C:\Program Files\Internet Explorer\IEXPLORE.EXE" -w "%l" %*
+Microsoft.Workfolders=C:\Windows\System32\control.exe /name Microsoft.WorkFolders
+MMS="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" "%L"
+ms-access=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+ms-availablenetworks="%SystemRoot%\system32\LaunchWinApp.exe" "%1"
+ms-excel=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+ms-mmsys=%SystemRoot%\System32\rundll32.exe %SystemRoot%\System32\shell32.dll,Control_RunDLL %SystemRoot%\System32\mmsys.cpl %1
+ms-msdt="%SystemRoot%\system32\msdt.exe" %1
+ms-msime-imepad=C:\Windows\System32\IME\SHARED\IMEPADSV.EXE %1
+ms-msime-imjpdct=C:\Windows\System32\IME\IMEJP\IMJPDCT.EXE %1
+ms-perception-simulation=%SystemRoot%\system32\PerceptionSimulation\PerceptionSimulationInput.exe %1
+ms-powerpoint=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+ms-publisher=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+ms-quick-assist="%SystemRoot%\system32\quickassist.exe" %1
+ms-rdx-document=%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\RDXService,OpenRDXDocument %1
+ms-settings-connectabledevices="%SystemRoot%\system32\LaunchWinApp.exe" "%1"
+ms-settings-displays-topology="%SystemRoot%\system32\LaunchWinApp.exe" "%1"
+ms-virtualtouchpad="%SystemRoot%\system32\LaunchWinApp.exe" "%1"
+ms-word=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+mscfile=%SystemRoot%\system32\mmc.exe "%1" %*
+MSDASC=Rundll32.exe "%CommonProgramFiles%\System\OLE DB\oledb32.dll",OpenDSLFile %1
+MSEdgeHTM="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --single-argument %1
+MSEdgeMHT="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --single-argument %1
+MSEdgePDF="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --single-argument %1
+Msi.Package="%SystemRoot%\System32\msiexec.exe" /i "%1" %*
+Msi.Patch="%SystemRoot%\System32\msiexec.exe" /p "%1" %*
+MSInfoFile=%SystemRoot%\system32\msinfo32.exe "%1"
+MSSppLicenseFile="iexplore.exe" "%1"
+MSStorageSense=explorer ms-settings:storagesense
+msstylesfile=%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\shell32.dll,Control_RunDLL %SystemRoot%\system32\desk.cpl desk,@Appearance /Action:OpenMSTheme /file:"%1"
+NitroPDF.Document.10=C:\PROGRA~1\Nitro\PRO10~1\NitroPDF.exe "%1"
+NitroPDF.FDFDoc.10=C:\PROGRA~1\Nitro\PRO10~1\NitroPDF.exe "%1"
+NitroPDF.XFDFDoc.10=C:\PROGRA~1\Nitro\PRO10~1\NitroPDF.exe "%1"
+odtfile="%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+OfficeListShortcut="C:\Program Files\Microsoft Office\Root\Office16\MSPUB.EXE" %1
+OfficeTheme.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+OneNote="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" /hyperlink "%1"
+OneNote.Folder.1="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" "%1"
+OneNote.Notebook.1="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" "%1"
+OneNote.Package="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" "%1"
+OneNote.Section.1="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" "%1"
+OneNote.TableOfContents="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" /navigate "%1"
+OneNote.TableOfContents.12="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" /navigate "%1"
+OneNote.URL.16="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" /hyperlink "%1"
+OneNoteDesktop="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" /hyperlink "%1"
+OneNoteDesktop.URL.16="C:\Program Files\Microsoft Office\Root\Office16\ONENOTE.EXE" /hyperlink "%1"
+opensearchdescription=%SystemRoot%\explorer.exe
+OrgPlusWOPX.4="C:\Program Files\Microsoft Office\Root\Office16\ORGCHART.EXE" %1
+Outlook.File.eml.15=C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE /eml "%1"
+Outlook.File.hol.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /hol "%1"
+Outlook.File.ics.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /ical "%1"
+Outlook.File.msg.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /f "%1"
+Outlook.File.oft.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /t "%1"
+Outlook.File.pst.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /pst "%1"
+Outlook.File.vcf.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /v "%1"
+Outlook.File.vcs.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /vcal "%1"
+Outlook.URL.feed.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /share "%1"
+Outlook.URL.mailto.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" -c IPM.Note /mailto "%1"
+Outlook.URL.stssync.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /share "%1"
+Outlook.URL.webcal.15="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /share "%1"
+P7RFile=%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenP7R %1
+P7SFile=%SystemRoot%\system32\\rundll32.exe cryptext.dll,CryptExtOpenPKCS7 %1
+pbkfile=%SystemRoot%\system32\rasphone.exe -f "%1"
+PerfFile=%SystemRoot%\system32\mmc.exe %systemroot%\system32\perfmon.msc /F "%1"
+PFXFile=%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenPFX %1
+PhotoViewer.FileAssoc.Tiff=%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+piffile="%1" %*
+PowerPoint.Addin.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+PowerPoint.Addin.8="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1"
+PowerPoint.OpenDocumentPresentation.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+PowerPoint.Show.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+PowerPoint.Show.8="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+PowerPoint.ShowMacroEnabled.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+PowerPoint.Slide.12=C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE "%1" /ou "%u"
+PowerPoint.Slide.8=C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE "%1" /ou "%u"
+PowerPoint.SlideMacroEnabled.12=C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE "%1" /ou "%u"
+PowerPoint.SlideShow.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" /s "%1" /ou "%u"
+PowerPoint.SlideShow.8="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" /s "%1" /ou "%u"
+PowerPoint.SlideShowMacroEnabled.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" /s "%1" /ou "%u"
+PowerPoint.Template.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+PowerPoint.Template.8="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+PowerPoint.TemplateMacroEnabled.12="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+PowerPoint.UriLink.16=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+PowerPoint.Wizard.8="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE" "%1" /ou "%u"
+powerpointhtmlfile="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE"
+powerpointhtmltemplate="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE"
+powerpointxmlfile="C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE"
+prffile="%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\msrating.dll",ClickedOnPRF %1
+PSGRedirector="C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\Solutions\PSGRedirector.exe" %1
+Publisher.Document.16="C:\Program Files\Microsoft Office\Root\Office16\MSPUB.EXE" /ou "%u" "%1"
+Publisher.UriLink.16=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+ratfile="%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\msrating.dll",ClickedOnRAT %1
+RDP.File="%systemroot%\system32\mstsc.exe" "%1"
+regedit=regedit.exe "%1"
+regfile=regedit.exe "%1"
+RemoteAssistance.1="%systemRoot%\system32\msra.exe" -openfile "%1"
+rlefile="%systemroot%\system32\mspaint.exe" "%1"
+rlogin="C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l
+rtffile="%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+SavedDsQuery=%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\dsquery.dll,OpenSavedDsQuery %1
+scrfile="%1" /S
+scriptletfile="C:\Windows\System32\NOTEPAD.EXE" "%1"
+search=%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L
+search-ms=%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L
+SHCmdFile=%SystemRoot%\explorer.exe
+sh_auto_file="C:\Program Files\Git\git-bash.exe" --no-cd "%L" %*
+sip=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+sips=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+skypecast15=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+SPCFile=%SystemRoot%\system32\rundll32.exe cryptext.dll,CryptExtOpenPKCS7 %1
+stssync="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /share "%1"
+svgfile="C:\Program Files\Internet Explorer\IEXPLORE.EXE" %1
+tel=C:\Program Files\Microsoft Office\Root\Office16\lync.exe "%1"
+telnet="C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l
+textfile="%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+themefile=%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\themecpl.dll,OpenThemeAction %1
+themepackfile=%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\themecpl.dll,OpenThemeAction %1
+TIFImage.Document=%SystemRoot%\System32\rundll32.exe "%ProgramFiles%\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1
+tn3270="C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l
+txtfile=%SystemRoot%\system32\NOTEPAD.EXE %1
+Undecided=%SystemRoot%\system32\OpenWith.exe "%1"
+UniConverter13.AssocFile.USE="C:\Program Files (x86)\Wondershare\UniConverter 13\VideoConverterUltimate.exe" "-openfile" "%1"
+Unknown=%SystemRoot%\system32\OpenWith.exe "%1"
+VBEFile="%SystemRoot%\System32\WScript.exe" "%1" %*
+VBSFile="%SystemRoot%\System32\WScript.exe" "%1" %*
+vcard_wab_auto_file="%ProgramFiles%\Windows Mail\wab.exe" /vcard "%1"
+VisioViewer.Viewer="%ProgramFiles%\Internet Explorer\iexplore.exe" -nohome
+VisualStudio.StvProj.10="C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.7.2 Tools\SvcTraceViewer.exe" "%1"
+VisualStudio.SvcLog.10="C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.7.2 Tools\SvcTraceViewer.exe" "%1"
+VLC.3g2="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.3ga="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.3gp="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.3gp2="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.3gpp="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.669="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.a52="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.aac="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ac3="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.adt="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.adts="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.aif="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.aifc="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.aiff="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.amr="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.amv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.aob="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ape="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.asf="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.asx="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.au="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.avi="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.b4s="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.bik="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.Bluray="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file bluray:///%1
+VLC.caf="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.cda="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.CDAudio="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file cdda:///%1
+VLC.cue="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.divx="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.drc="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.dts="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.dv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.DVDMovie="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file dvd:///%1
+VLC.dvr-ms="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.evo="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.f4v="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.flac="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.flv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.gvi="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.gxf="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ifo="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.iso="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.it="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m1v="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m2t="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m2ts="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m2v="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m3u="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m3u8="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m4a="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m4p="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.m4v="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mid="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mka="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mkv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mlp="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mod="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mov="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mp1="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mp2="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mp2v="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mp3="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mp4="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mp4v="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpa="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpc="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpe="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpeg="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpeg1="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpeg2="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpeg4="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpg="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpga="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mpv2="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mts="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mtv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.mxf="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.nsv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.nuv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.oga="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ogg="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ogm="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ogv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ogx="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.oma="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.OPENFolder="C:\Program Files\VideoLAN\VLC\vlc.exe" %1
+VLC.opus="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.pls="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.qcp="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ra="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ram="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.rar="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.rec="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.rm="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.rmi="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.rmvb="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.rpl="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.s3m="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.sdp="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.snd="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.spx="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.SVCDMovie="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file vcd:///%1
+VLC.thp="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.tod="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.tp="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.ts="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.tta="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.tts="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.VCDMovie="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file vcd:///%1
+VLC.vlc="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.vlt="C:\Program Files\VideoLAN\VLC\vlc.exe" -Iskins --skins2-last "%1"
+VLC.vob="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.voc="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.vqf="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.vro="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.w64="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.wav="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.webm="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.wma="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.wmv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.wpl="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.wsz="C:\Program Files\VideoLAN\VLC\vlc.exe" -Iskins --skins2-last "%1"
+VLC.wtv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.wv="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.wvx="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.xa="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.xesc="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.xm="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.xspf="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.zip="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+VLC.zpl="C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file "%1"
+WAB.AssocProtocol.LDAP="%ProgramFiles%\Windows Mail\wab.exe" "/ldap:%1"
+wab_auto_file="%ProgramFiles%\Windows Mail\wab.exe" /Import "%1"
+wbcatfile=%SystemRoot%\system32\sdclt.exe /restorepage
+wcxfile="C:\Windows\System32\xwizard.exe" RunWizard /u {7940acf8-60ba-4213-a7c3-f3b400ee266d} /z%1
+webcal="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /share "%1"
+webcals="C:\Program Files\Microsoft Office\Root\Office16\OUTLOOK.EXE" /share "%1"
+webpnpFile=%SystemRoot%\system32\wpnpinst.exe %1
+Windows.CompositeFont="%SystemRoot%\System32\notepad.exe" "%1"
+Windows.XamlDocument="C:\Windows\System32\PresentationHost.exe" "%1" %*
+Windows.Xbap="C:\Windows\System32\PresentationHost.exe" "%1" %*
+Windows.XPSReachViewer=%SystemRoot%\System32\xpsrchvw.exe "%1" %*
+WindowsStore.License=%SystemRoot%\System32\licensemanagershellext.exe "%1"
+WinRAR="C:\Program Files\WinRAR\WinRAR.exe" "%1"
+WinRAR.REV="C:\Program Files\WinRAR\WinRAR.exe" "%1"
+WinRAR.ZIP="C:\Program Files\WinRAR\WinRAR.exe" "%1"
+wmffile="%systemroot%\system32\mspaint.exe" "%1"
+WMP.DVR-MSFile="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP.WTVFile="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.3G2="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.3GP="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.ADTS="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.AIFF="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.ASF="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:7 /Open "%L"
+WMP11.AssocFile.ASX="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.AU="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.AVI="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:8 /Open "%L"
+WMP11.AssocFile.CDA="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.FLAC="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.M2TS="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:12 /Open "%L"
+WMP11.AssocFile.M3U="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.M4A="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.MIDI="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.MK3D="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.MKA="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.MKV="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.MOV="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.MP3="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.MP4="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:6 /Open "%L"
+WMP11.AssocFile.MPEG="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:9 /Open "%L"
+WMP11.AssocFile.TTS="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:12 /Open "%L"
+WMP11.AssocFile.WAV="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.WAX="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.wma="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:5 /Open "%L"
+WMP11.AssocFile.WMD="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /WMPackage:"%L"
+WMP11.AssocFile.WMS="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /layout:"%L"
+WMP11.AssocFile.WMV="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /prefetch:7 /Open "%L"
+WMP11.AssocFile.WMZ="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /layout:"%L"
+WMP11.AssocFile.WPL="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocFile.WVX="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" /Open "%L"
+WMP11.AssocProtocol.DLNA-PLAYSINGLE="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" "%L"
+WMP11.AssocProtocol.MMS="%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" "%L"
+Word.AutoRecovery.8="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.Backup.8="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.Document.12="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.Document.8="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.DocumentMacroEnabled.12="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.OpenDocumentText.12="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1"
+Word.RTF.8="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.Template.12="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.Template.8="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.TemplateMacroEnabled.12="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "%1" /o "%u"
+Word.UriLink.16=C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe "%1"
+wordhtmlfile="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE"
+wordhtmltemplate="C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE"
+Wordpad.Document.1="%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE" "%1"
+WPDContextMenu.Url="%SystemRoot%\System32\rundll32.exe" "%SystemRoot%\System32\ieframe.dll",OpenURL %l
+WSFFile="%SystemRoot%\System32\WScript.exe" "%1" %*
+WSHFile="%SystemRoot%\System32\WScript.exe" "%1" %*
+xhtmlfile="C:\Program Files\Internet Explorer\IEXPLORE.EXE" %1
+xmlfile="C:\Program Files\Internet Explorer\iexplore.exe" %1
+xslfile="C:\Program Files\Internet Explorer\iexplore.exe" %1
+zapfile=%SystemRoot%\system32\NOTEPAD.EXE %1
+
+C:\Users\hp>attributes
+'attributes' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>attributes disk
+'attributes' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>disk
+'disk' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>call
+
+C:\Users\hp>change user
+Change Install Mode.
+
+CHANGE USER {/EXECUTE | /INSTALL | /QUERY}
+
+  /EXECUTE  Enable execute mode (default).
+  /INSTALL  Enable install mode.
+  /QUERY    Display current settings.
+
+
+C:\Users\hp>change user/QUERY
+Invalid parameter(s)
+CHANGE { LOGON | PORT | USER }
+
+C:\Users\hp>change user /QUERY
+Application EXECUTE mode is enabled.
+Install mode does not apply to a Remote Desktop Session Host server configured for remote administration.
+
+C:\Users\hp>DETAIL
+'DETAIL' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>detail
+'detail' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>detail partition
+'detail' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>echo
+ECHO is on.
+
+C:\Users\hp>exec
+'exec' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>freedisk
+'freedisk' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>fveupdate
+'fveupdate' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>getmac
+
+Physical Address    Transport Name
+=================== ==========================================================
+30-8D-99-C1-0D-72   Media disconnected
+32-E2-5F-3C-A4-9F   \Device\Tcpip_{7AC5115A-6515-4895-B8AE-D486663B11DE}
+D8-5D-E2-8F-7A-58   Media disconnected
+
+C:\Users\hp>gettype
+'gettype' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>goto
+
+C:\Users\hp>helpctr
+'helpctr' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>label
+Volume in drive C: has no label
+Volume Serial Number is 80BD-DD4A
+Volume label (32 characters, ENTER for none)?
+
+C:\Users\hp>logman
+
+Data Collector Set                      Type                          Status
+-------------------------------------------------------------------------------
+
+The command completed successfully.
+
+C:\Users\hp>list providers
+'list' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>load metadata
+'load' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>macfile
+'macfile' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>mkdir
+The syntax of the command is incorrect.
+
+C:\Users\hp>mode
+
+Status for device CON:
+----------------------
+    Lines:          9001
+    Columns:        120
+    Keyboard rate:  31
+    Keyboard delay: 1
+    Code page:      850
+
+
+C:\Users\hp>
