@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <a href="/">home</a>
+        <a href="/post">post</a>
+        <a href="/about">about</a>
+    </nav>
+    <div>
+        <h1>request apa nich</h1>
+        <form action="" method="post">
+            <input name="nama" type="text" required>
+            <input name="detail" type="text" required>
+            <button type="submit">kirim</button>
+        </form>
+        <hr>
+        <h1>response baik</h1>
+        {{context}}
+        {% for d in context %}
+        <ul>
+            <li>{{d}}</li>
+        </ul>        
+        {% endfor %}
+    </div>
+</body>
+</html>
