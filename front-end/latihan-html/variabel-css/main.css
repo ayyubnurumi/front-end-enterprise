@@ -1,0 +1,22 @@
+:root {
+  --main-color: black;
+  --secondary-color: yellowgreen;
+  --accent-color: lightgrey;
+  --font-color: whitesmoke;
+}
+
+body {
+  background-color: var(--main-color);
+}
+h1 {
+  color: var(--secondary-color);
+}
+h2 {
+  color: var(--accent-color);
+}
+p {
+  color: var(--font-color);
+}
+input[type="button"] {
+    background: var(--secondary-color);
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>jadwal iai</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        color: darkslategray;
+      }
+      .jadwal-container {
+        display: flex;
+        background: url(tugu-YeniSetiawan.jpg) right bottom no-repeat;
+        background-size: 500px;
+        padding: 10px;
+        width: 100%;
+        height: 600px;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .jadwal-item {
+        display: flex;
+        margin-bottom: 10px;
+      }
+      .cawu {
+        background-color: lightblue;
+        border-radius: 40px;
+        text-align: center;
+        padding-inline: 10px;
+        height: 80px;
+        min-width: 80px;
+        max-width: max-content;
+        line-height: 80px;
+        flex-shrink: 0;
+      }
+      .detail-jadwal {
+        background: linear-gradient(to left, whitesmoke, lightblue);
+        padding-left: 27px;
+        border-radius: 40px;
+        line-height: 80px;
+        width: min(400px, 100%);
+        margin-left: 10px;
+      }
+      .cawu:hover {
+        background-color: whitesmoke;
+        color: goldenrod;
+      }
+      .cawu:hover + .detail-jadwal {
+        background: linear-gradient(to right, whitesmoke, lightblue);
+        color: goldenrod;
+      }
+      @media screen and (min-width: 900px) {
+        .jadwal-container {
+          padding-left: 27px;
+        }
+        .cawu {
+          font-size: large;
+          background-color: lightblue;
+        }
+        .detail-jadwal {
+          font-size: x-large;
+          background: linear-gradient(to left, darkblue, lightblue);
+        }
+        .cawu:hover {
+          background-color: darkblue;
+          color: whitesmoke;
+        }
+        .cawu:hover + .detail-jadwal {
+          background: linear-gradient(to right, darkblue, lightblue);
+          color: whitesmoke;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="jadwal-container">
+      <dl>
+        <div class="jadwal-item">
+          <dt class="cawu">cawu I</dt>
+          <dd class="detail-jadwal">28 maret</dd>
+        </div>
+        <div class="jadwal-item">
+          <dt class="cawu">cawu II</dt>
+          <dd class="detail-jadwal">15 juli</dd>
+        </div>
+        <div class="jadwal-item">
+          <dt class="cawu">cawu III</dt>
+          <dd class="detail-jadwal">26 oktober</dd>
+        </div>
+      </dl>
+    </div>
+  </body>
+</html>

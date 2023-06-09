@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sanusi Macanabu</title>
+
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="./assets/favicon/icons8-cat-parakeet-32.png"
+    />
+    <link rel="stylesheet" href="./carousel-sanusi.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+      *,
+      *::after,
+      *::before {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        color: rgb(45, 45, 45);
+      }
+      .row {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        padding: 10px 20px;
+      }
+      .col-1 {
+        width: 8.33%;
+      }
+      .col-2 {
+        width: 16.66%;
+      }
+      .col-3 {
+        width: 25%;
+      }
+      .col-4 {
+        width: 33.33%;
+      }
+      .col-5 {
+        width: 41.66%;
+      }
+      .col-6 {
+        width: 50%;
+      }
+      .col-7 {
+        width: 58.33%;
+      }
+      .col-8 {
+        width: 66.66%;
+      }
+      .col-9 {
+        width: 75%;
+      }
+      .col-10 {
+        width: 83.33%;
+      }
+      .col-11 {
+        width: 91.66%;
+      }
+      .col-12 {
+        width: 100%;
+      }
+      #home {
+        background: url(./assets/home.jpg) no-repeat;
+        background-size: cover;
+        position: relative;
+      }
+      #outro {
+        background: url(./assets/outro.jpg) no-repeat;
+        background-size: cover;
+      }
+      #memories {
+        background: url(./assets/memories.jpg) no-repeat;
+        background-size: cover;
+      }
+      #photo {
+        background: url(./assets/photo.jpg) no-repeat;
+        background-size: cover;
+      }
+      img {
+        border-radius: 9px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="home" class="row">
+      <h1 style="font-size: 6rem; color: wheat">Sanusi<br />Macanabu</h1>
+      <!-- <button
+        style="
+          position: absolute;
+          right: 20px;
+          bottom: 20px;
+          background: transparent;
+          outline: none;
+          border: none;
+          cursor: pointer;
+          color: wheat;
+          font-size: x-large;
+        "
+      >
+        bout meoww!!
+      </button> -->
+    </div>
+    <div id="intro" class="row" style="display: flex; align-items: center; background: linear-gradient(170deg, wheat 10%, #c394f8 90%);">
+      <img src="./assets/intro.jpg" alt="sanusi" class="col-6" />
+      <span style="margin-left: 30px; font-size: xx-large; line-height: 3.5rem"
+        >Meoww! namaku Sanusi Macanabu.<br />
+        Kucing kampung biasa.<br />
+        Aku hidup di Yogyakarta, tepatnya di Rumah Firdaus, bersama para babuku
+        Ayyub, Idin dan David</span
+      >
+    </div>
+    <div id="kitten" class="row carousel">
+      <span class="col-4" style="margin-right: 30px; font-size: xx-large; line-height: 3.5rem"
+        >Ketika masih muda, aku sangat lincah & aktif. Aku mempunyai banyak hobi
+        dan kegiatan. silahkan lihat-lihat kilas baliknyaa</span
+      >
+      <div class="container col-8">
+        <input type="radio" name="slider" id="item-1" class="input-kitten" checked />
+        <input type="radio" name="slider" id="item-2" class="input-kitten" />
+        <input type="radio" name="slider" id="item-3" class="input-kitten" />
+        <input type="radio" name="slider" id="item-4" class="input-kitten" />
+        <div class="cards">
+          <label class="card" for="item-1" id="song-1">
+            <img src="./assets/kitten-1.jpg" alt="kitten-1" class="img"/>
+          </label>
+          <label class="card" for="item-2" id="song-2">
+            <img src="./assets/kitten-2.jpg" alt="kitten-2" class="img"/>
+          </label>
+          <label class="card" for="item-3" id="song-3">
+            <img src="./assets/kitten-3.jpg" alt="kitten-3" class="img"/>
+          </label>
+          <label class="card" for="item-4" id="song-4">
+            <img src="./assets/kitten-4.jpg" alt="kitten-4" class="img"/>
+          </label>
+        </div>
+        <div class="player">
+          <div class="upper-part">
+            <div class="info-area" id="test">
+              <label class="song-info" id="song-info-1">
+                <div class="title">Eksplorasi</div>
+                <div class="subtitle">Bermain di Kebon</div>
+              </label>
+              <label class="song-info" id="song-info-2">
+                <div class="title">Main Lato-lato</div>
+                <div class="subtitle">Tapi gabisa-bisa</div>
+              </label>
+              <label class="song-info" id="song-info-3">
+                <div class="title">Mainan Kertas</div>
+                <div class="subtitle">Latihan Menangkap Kecoa Terbang</div>
+              </label>
+              <label class="song-info" id="song-info-4">
+                <div class="title">Hang Out with Friends</div>
+                <div class="subtitle">Just Chilling</div>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="adult" class="row carousel">
+      <div class="container col-8">
+        <input type="radio" name="slider" id="adult-item-1" class="input-adult" checked />
+        <input type="radio" name="slider" id="adult-item-2" class="input-adult" />
+        <input type="radio" name="slider" id="adult-item-3" class="input-adult" />
+        <div class="cards">
+          <label class="card" for="adult-item-1" id="adult-song-1">
+            <img src="./assets/adult-1.jpg" alt="adult-1" class="img"/>
+          </label>
+          <label class="card" for="adult-item-2" id="adult-song-2">
+            <img src="./assets/adult-2.jpg" alt="adult-2" class="img"/>
+          </label>
+          <label class="card" for="adult-item-3" id="adult-song-3">
+            <img src="./assets/adult-3.jpg" alt="adult-3" class="img"/>
+          </label>
+        </div>
+        <div class="player">
+          <div class="upper-part">
+            <div class="info-area" id="adult-test">
+              <label class="song-info" id="adult-song-info-1">
+                <div class="title">Mari Bermimpi</div>
+                <div class="subtitle">Bersama Teman-teman</div>
+              </label>
+              <label class="song-info" id="adult-song-info-2">
+                <div class="title">Baru Bangun</div>
+                <div class="subtitle">Mari Wujudkan Mimpi</div>
+              </label>
+              <label class="song-info" id="adult-song-info-3">
+                <div class="title">Hidup itu Keras</div>
+                <div class="subtitle">Mari Kita Tidur Dulu</div>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <span class="col-4" style="margin-left: 30px; font-size: xx-large; line-height: 3.5rem"
+        >Beranjak dewasa, aktifitasku pun mulai berubah. Aku tentu tidak bisa
+        terus seperti anak kecil kan? Jadi kuputuskan untuk terus
+        bermimpi!</span
+      >
+    </div>
+    <div id="sad" class="row" style="background: linear-gradient(190deg, orange, wheat, lightgray);">
+      <span style="margin-right: 30px; font-size: xx-large; line-height: 3.5rem"
+        >Hal tersedih dalam hidupku, selain makan nasi pindang tiap hari, adalah
+        ketika aku melihat si Putih, pacarku bermesraan dengan si Oyen</span
+      >
+      <img src="./assets/sad.jpg" alt="sanusi" class="col-6" />
+    </div>
+    <div id="epic" class="row" style="background: linear-gradient(170deg, lightgray, grey);">
+      <img src="./assets/epic.jpg" alt="sanusi" class="col-6" />
+      <span style="margin-left: 30px; font-size: xx-large; line-height: 3.5rem"
+        ><p>
+          Tentu aku tak bisa tinggal diam. Perang besar di tanah Bimomartani tak
+          bisa dihindari.
+        </p>
+        <p>
+          Pertempuran ini berakhir setelah 6 hari 6 malam dengan aku keluar
+          sebagai pemenangnya.
+        </p>
+        <p>
+          Aku & ke-6 temanku mengambil alih kekuasaan kampung. itulah prestasi
+          terbesarku!!
+        </p>
+      </span>
+    </div>
+    <div
+      id="outro"
+      class="row"
+      style="
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        font-size: 21px;
+      "
+    >
+      <p>
+        Untuk para babuku, teman-teman, & para betina yang menemani hidupku,<br />
+        kuucapkan terima kasih
+      </p>
+      <br />
+      <p>Pesanku, jalanilah hidup ini dengan luar biasa, Chuakkkz.</p>
+    </div>
+    <div
+      id="memories"
+      class="row"
+      style="
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+      "
+    >
+      <h2><i style="color: wheat; font-weight: lighter">In Our Memories</i></h2>
+      <div>
+        <p style="color: wheat; font-size: xx-large; font-weight: bold">
+          Sanusi Macanabu
+        </p>
+        <p style="color: wheat; font-size: x-large">2021-2023</p>
+      </div>
+    </div>
+    <div id="photo" class="row"></div>
+    <script>
+
+      $("input.input-adult").on("change", function () {
+        $("#adult").toggleClass("orange");
+      });
+
+      $("input.input-kitten").on("change", function () {
+        $("#kitten").toggleClass("blue");
+      });
+
+    </script>
+  </body>
+</html>
