@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .box {
+        width: 200px;
+        height: 200px;
+        background-color: #f0f0f0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .text {
+        width: 100%;
+        text-align: center;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <div class="text" id="textContainer">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
+      </div>
+    </div>
+
+    <script>
+      function adjustFontSize() {
+        const box = document.querySelector(".box");
+        const textContainer = document.getElementById("textContainer");
+        const text = textContainer.innerHTML;
+
+        let fontSize = 40; // Initial font size
+        textContainer.style.fontSize = fontSize + "px";
+
+        while (
+          textContainer.scrollHeight > box.offsetHeight ||
+          textContainer.scrollWidth > box.offsetWidth
+        ) {
+          fontSize--;
+          textContainer.style.fontSize = fontSize + "px";
+        }
+      }
+
+      window.addEventListener("DOMContentLoaded", adjustFontSize);
+      window.addEventListener("resize", adjustFontSize);
+    </script>
+  </body>
+</html>
