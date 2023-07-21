@@ -1,6 +1,6 @@
 .carousel {
   padding: 30px 10px;
-  transition: background 0.4s ease-in;
+  transition: background-color 0.4s ease-in;
 }
 #kitten {
   background-color: #c394f8;
@@ -90,35 +90,6 @@ input[type="radio"] {
   box-shadow: 0px 0px 5px 0px rgba(81, 81, 81, 0.47);
 }
 
-#adult-item-1:checked ~ .cards #adult-song-3,
-#adult-item-2:checked ~ .cards #adult-song-1,
-#adult-item-3:checked ~ .cards #adult-song-2 {
-  transform: translatex(-40%) scale(0.8);
-  opacity: 0.4;
-  z-index: 0;
-}
-
-#adult-item-1:checked ~ .cards #adult-song-2,
-#adult-item-2:checked ~ .cards #adult-song-3,
-#adult-item-3:checked ~ .cards #adult-song-1 {
-  transform: translatex(40%) scale(0.8);
-  opacity: 0.4;
-  z-index: 0;
-}
-
-#adult-item-1:checked ~ .cards #adult-song-1,
-#adult-item-2:checked ~ .cards #adult-song-2,
-#adult-item-3:checked ~ .cards #adult-song-3 {
-  transform: translatex(0) scale(1);
-  opacity: 1;
-  z-index: 1;
-}
-#adult-item-1:checked ~ .cards #adult-song-1 .img,
-#adult-item-2:checked ~ .cards #adult-song-2 .img,
-#adult-item-3:checked ~ .cards #adult-song-3 .img {
-  box-shadow: 0px 0px 5px 0px rgba(81, 81, 81, 0.47);
-}
-
 .player {
   background-color: wheat;
   border-radius: 8px;
@@ -170,14 +141,4 @@ input[type="radio"] {
 }
 #item-4:checked ~ .player #test {
   transform: translateY(-120px);
-}
-
-#adult-item-2:checked ~ .player #adult-test {
-  transform: translateY(0);
-}
-#adult-item-2:checked ~ .player #adult-test {
-  transform: translateY(-40px);
-}
-#adult-item-3:checked ~ .player #adult-test {
-  transform: translateY(-80px);
 }

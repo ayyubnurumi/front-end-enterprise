@@ -1,0 +1,69 @@
+.gallery-wrapper {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+.gallery-item {
+    position: relative;
+    isolation: isolate;
+    display: flex;
+    flex: 0 1 33.3%;
+    height: 100%;
+    padding: 25px;
+    opacity: 1;
+    transition: flex .5s, opacity .25s;
+}
+.gallery-item:hover {
+    opacity: 1;
+    flex: 8 0 80%;
+}
+.gallery-item:not(:hover) {
+    opacity: 0.75;
+    flex: 0 9 5%;
+}
+.item-img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    width: 100%; height: 100%;
+    object-fit: cover;
+}
+.item-desc {
+    align-self: flex-end;
+    text-transform: uppercase;
+    color: white;
+}
+.gallery-title {
+    font-size: 37px;
+    background: linear-gradient(90deg, #f32d5b, #ff009b);
+    padding-inline: 10px;
+    transform: translateY(-10px);
+}
+.gallery-subtitle {
+    display: inline-block;
+    background: linear-gradient(90deg, #4236d9, #0086c7);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(10px);
+}
+.gallery-title, .gallery-subtitle {
+    opacity: 0;
+    transition: opacity .25s, transform .3s;
+    transition-delay: .35s;
+}
+.gallery-item:hover .gallery-title, .gallery-item:hover .gallery-subtitle {
+    opacity: 1;
+    transform: translateY(0);
+}
+.gallery-item:not(:hover) .gallery-title, .gallery-item:not(:hover) .gallery-subtitle {
+    transition-delay: 0;
+}
+/* @media screen and (max-width: 768px) {
+    .gallery-wrapper{
+        flex-direction: column;
+        height: 100vh;
+    }
+    .gallery-item:hover{
+        flex-basis: 100%;
+    }
+} */
